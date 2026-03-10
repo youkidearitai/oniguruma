@@ -2,6 +2,10 @@ Oniguruma
 =========
 ## **This project ended on April 24, 2025.**
 
+### This repository is only security update and update Unicode version.
+
+And, I maintenance only README.md because minimum maintenance.
+
 ## **The only open source software attacked on Google search in Japan.** [(Issue #234)](https://github.com/kkos/oniguruma/issues/234)
 
 
@@ -37,6 +41,9 @@ Master branch
 -------------
 * Unicode property \pC, \pL, \pM, \pN, \pP, \pS, \pZ
 
+Version 6.9.11
+--------------
+* Update Unicode version 17.0
 
 Version 6.9.10
 --------------
