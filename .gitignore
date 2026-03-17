@@ -26,6 +26,7 @@ Makefile.in
 *.gcno
 *.gcda
 *.gcov
+*.dep
 *~
 .libs/
 .deps/
